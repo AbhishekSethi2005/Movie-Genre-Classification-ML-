@@ -1,4 +1,4 @@
-# Movie-Genre-Classification-ML-CodeSoft-Project-1
+# Movie-Genre-Classification-ML
 🎥📊 Movie Genre Classification with Machine Learning
 
 📝 Description:
